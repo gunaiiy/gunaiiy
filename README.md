@@ -32,11 +32,13 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 👾 Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gunaiiy/gunaiiy/output/github-contribution-grid-snake.svg" width="100%"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gunaiiy/gunaiiy/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gunaiiy/gunaiiy/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gunaiiy/gunaiiy/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
@@ -57,8 +59,8 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gunaiiy&show_icons=true&theme=dracula&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunaiiy&layout=compact&theme=dracula&hide_border=true&border_radius=10" width="38%" />
+<img src="https://github-readme-stats.vercel.app/api?username=gunaiiy&show_icons=true&theme=dracula&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&cache_seconds=86400" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunaiiy&layout=compact&theme=dracula&hide_border=true&border_radius=10&cache_seconds=86400" width="38%" />
 </p>
 
 <p align="center">
