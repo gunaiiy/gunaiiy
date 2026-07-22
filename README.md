@@ -19,9 +19,3 @@
 Let's connect: <a href="https://www.linkedin.com/in/gunay-abdullazada/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" align="center" /></a>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 <br>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjg1bHp0YmMyOGZ0aXQ2ZG9qaWU4cDA4dm53aWFjMTFobGVxdTR5aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iZGpuaRKdEZoI/giphy.gif" width="220" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Mm5oODg1eHdxeThpcWN2MDA4dGo4dzhqczNrbzNwb3M3eHlzYnh2bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zKQTaG749bEoo/giphy.gif" width="220" />
-</p>
