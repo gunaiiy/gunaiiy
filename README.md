@@ -23,7 +23,7 @@
 - 🐧 **OS:** Linux administration
 
 
-#### 📫 Connect with me: [linkedin.com/in/gunay-abdullazada](https://www.linkedin.com/in/gunay-abdullazada/)
+#### 📫 Connect with me: <a href="https://www.linkedin.com/in/gunay-abdullazada/" target="_blank"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" align="center" height="26" width="26" /></a>
 ---
 
 <br>
