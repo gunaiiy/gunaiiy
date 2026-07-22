@@ -5,6 +5,7 @@
 # Hi, I'm Gunay Abdullazada! ⚙️
 
 **DevOps Enthusiast**
+
 Building CI/CD pipelines and managing service orchestration & secrets. Still learning and growing every day 🌱
 </div>
 
