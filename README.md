@@ -32,18 +32,6 @@
 
 ---
 
-### 🛠️ Languages & Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,gitlab,prometheus,grafana,postgresql,python" />
-<img src="https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white" />
-<img src="https://img.shields.io/badge/Consul-CA2171?style=for-the-badge&logo=consul&logoColor=white" />
-<img src="https://img.shields.io/badge/Nomad-00CA8E?style=for-the-badge&logo=hashicorp&logoColor=white" />
-<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
-<img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" />
-<img src="https://img.shields.io/badge/Gravitee-1D2733?style=for-the-badge&logoColor=white" />
-</p>
-
 <br>
 
 <p align="center">
