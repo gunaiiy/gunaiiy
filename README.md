@@ -4,19 +4,22 @@
 
 # Hi, I'm Gunay Abdullazada! ⚙️
 
-**DevOps Engineer | Infrastructure & Automation**
+**DevOps Enthusiast**
 
 </div>
 
 ---
 
-### ☁️ What I actually work with:
+### 🧰 What I actually work with:
 
 - 🐳 **Containerization:** Docker
 - 🔁 **CI/CD:** GitLab CI pipelines
 - 🔐 **Secrets & Service Networking:** HashiCorp Vault & Consul
-- 🧭 **Orchestration:** HashiCorp Nomad
-- 📊 **Monitoring:** Prometheus & Grafana
+- 🧭 **Orchestration:** Kubernetes & HashiCorp Nomad
+- 📊 **Monitoring & Dashboards:** Prometheus & Grafana
+- 📄 **Logging & Search:** Elastic Stack (Elasticsearch, Logstash, Kibana)
+- 🗄️ **Databases:** PostgreSQL
+- 🔌 **APIs:** Building & consuming REST APIs
 - 🐧 **OS:** Linux administration
 
 ### 🔗 Connect with me:
@@ -40,10 +43,13 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=docker,linux,gitlab,prometheus,grafana" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,gitlab,prometheus,grafana,postgresql" />
 <img src="https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white" />
 <img src="https://img.shields.io/badge/Consul-CA2171?style=for-the-badge&logo=consul&logoColor=white" />
 <img src="https://img.shields.io/badge/Nomad-00CA8E?style=for-the-badge&logo=hashicorp&logoColor=white" />
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+<img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
 ---
@@ -56,4 +62,11 @@
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gunaiiy&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+<img src="https://media.giphy.com/media/Xy7lRlfNAipRCYUx2D/giphy.gif" width="140"/>
+<img src="https://media.giphy.com/media/26tPd9QiB0qSPKSzK/giphy.gif" width="140"/>
 </p>
