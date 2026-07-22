@@ -2,7 +2,7 @@
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUydzhxcm5vNG0xajlmMHU1dnUxZTEyaWE4Mnlqbzl2M3U3amwyY3RociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohc10GA6j4XrLWzZK/giphy.gif" width="400"/>
 
-# Hi, I'm Gunay Abdullazada! ⚙️
+# Hi, I'm Gunay! ⚙️
 
 **DevOps Enthusiast**
 
