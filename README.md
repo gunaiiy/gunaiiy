@@ -19,7 +19,7 @@
 - 📊 **Monitoring & Dashboards:** Prometheus & Grafana
 - 📄 **Logging & Search:** Elastic Stack (Elasticsearch, Logstash, Kibana)
 - 🗄️ **Databases:** PostgreSQL
-- 🔌 **APIs:** Building & consuming REST APIs
+- 🔌 **API Gateway:** Gravitee
 - 🐧 **OS:** Linux administration
 
 ### 🔗 Connect with me:
@@ -49,7 +49,7 @@
 <img src="https://img.shields.io/badge/Nomad-00CA8E?style=for-the-badge&logo=hashicorp&logoColor=white" />
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
 <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Gravitee-1D2733?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
@@ -57,16 +57,17 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gunaiiy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gunaiiy&show_icons=true&theme=dracula&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunaiiy&layout=compact&theme=dracula&hide_border=true&border_radius=10" width="38%" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gunaiiy&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gunaiiy&theme=dracula&hide_border=true&border_radius=10" width="70%" />
 </p>
 
 ---
 
 <p align="center">
-<img src="https://media.giphy.com/media/Xy7lRlfNAipRCYUx2D/giphy.gif" width="140"/>
-<img src="https://media.giphy.com/media/26tPd9QiB0qSPKSzK/giphy.gif" width="140"/>
+<img src="https://media.giphy.com/media/Xy7lRlfNAipRCYUx2D/giphy.gif" width="30%" alt="rocket"/>
+<img src="https://media.giphy.com/media/26tPd9QiB0qSPKSzK/giphy.gif" width="30%" alt="coffee"/>
 </p>
