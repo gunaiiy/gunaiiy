@@ -46,14 +46,15 @@
 
 ---
 
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjg1bHp0YmMyOGZ0aXQ2ZG9qaWU4cDA4dm53aWFjMTFobGVxdTR5aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iZGpuaRKdEZoI/giphy.gif" width="250" alt="Coding GIF"/>
-</td>
-
-<td align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Mm5oODg1eHdxeThpcWN2MDA4dGo4dzhqczNrbzNwb3M3eHlzYnh2bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zKQTaG749bEoo/giphy.gif" width="250" alt="DevOps GIF"/>
-</td>
-</tr>
-</table>
+<div align="center">
+  <img
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjg1bHp0YmMyOGZ0aXQ2ZG9qaWU4cDA4dm53aWFjMTFobGVxdTR5aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iZGpuaRKdEZoI/giphy.gif"
+    width="240"
+    alt="Coding GIF"
+  />
+  <img
+    src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Mm5oODg1eHdxeThpcWN2MDA4dGo4dzhqczNrbzNwb3M3eHlzYnh2bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zKQTaG749bEoo/giphy.gif"
+    width="240"
+    alt="DevOps GIF"
+  />
+</div>
