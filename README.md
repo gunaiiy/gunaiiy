@@ -22,7 +22,6 @@
 - 🔌 **API Gateway:** Gravitee
 - 🐧 **OS:** Linux administration
 
-### 🔗 Connect with me:
 
 <h3 align="left">🔗 Connect with me:
   <a href="https://www.linkedin.com/in/gunay-abdullazada/" target="_blank">
