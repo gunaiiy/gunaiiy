@@ -64,10 +64,3 @@
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gunaiiy&theme=dracula&hide_border=true&border_radius=10" width="70%" />
 </p>
-
----
-
-<p align="center">
-<img src="https://media.giphy.com/media/Xy7lRlfNAipRCYUx2D/giphy.gif" width="30%" alt="rocket"/>
-<img src="https://media.giphy.com/media/26tPd9QiB0qSPKSzK/giphy.gif" width="30%" alt="coffee"/>
-</p>
