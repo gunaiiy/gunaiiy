@@ -43,3 +43,18 @@
 <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" />
 <img src="https://img.shields.io/badge/Gravitee-1D2733?style=for-the-badge&logoColor=white" />
 </p>
+
+---
+
+<h3 align="center">⚡ Thanks for visiting my profile!</h3>
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjg1bHp0YmMyOGZ0aXQ2ZG9qaWU4cDA4dm53aWFjMTFobGVxdTR5aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iZGpuaRKdEZoI/giphy.gif" width="280" alt="Coding GIF" />
+
+&nbsp;&nbsp;&nbsp;
+
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Mm5oODg1eHdxeThpcWN2MDA4dGo4dzhqczNrbzNwb3M3eHlzYnh2bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zKQTaG749bEoo/giphy.gif" width="280" alt="DevOps GIF" />
+
+</div>
+
