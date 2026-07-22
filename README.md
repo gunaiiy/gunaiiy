@@ -9,6 +9,7 @@
 Building CI/CD pipelines and managing service orchestration & secrets. Still learning and growing every day 🌱
 </div>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
 ### What I actually work with:
 
 - 🐳 **Containerization:** Docker
