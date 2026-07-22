@@ -8,9 +8,7 @@
 
 Building CI/CD pipelines and managing service orchestration & secrets. Still learning and growing every day 🌱
 </div>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
 ### What I actually work with:
 
 - 🐳 **Containerization:** Docker
@@ -24,7 +22,6 @@ Building CI/CD pipelines and managing service orchestration & secrets. Still lea
 - 🐧 **OS:** Linux administration
 
 Let's connect: <a href="https://www.linkedin.com/in/gunay-abdullazada/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" align="center" /></a>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 <br>
 
