@@ -26,10 +26,8 @@
 <p align="left">
   🔗 <b>Connect with me:</b>
   <a href="https://www.linkedin.com/in/gunay-abdullazada/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"/>
-  </a>
-</p>
-
+    <img 
+      src="https://img.shields.io
 ---
 
 
